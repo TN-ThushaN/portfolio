@@ -1,1 +1,2 @@
-PORTFOLIO:- http://127.0.0.1:5500/index.html
+PORTFOLIO:- https://TN-ThushaN.github.io/portfolio/
+
